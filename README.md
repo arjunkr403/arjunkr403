@@ -1,74 +1,69 @@
 ![Engineering the Web](image.svg)
-<h1 align="center">Hi 👋, I'm Arjun Sharma</h1>
-<h3 align="center">A MERN Stack Developer & A Open Source Contributor from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/repNxOYEfpxhcgGPlP1qwx5pZXL98F1AdVN72WEwz68/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZM0F4YldOd05Y/a3lNSEJqZVhCNWVY/TnBPRFZ1TVhnMWJH/bDBPVFJpZHpKcE0y/VnFkbnBrWnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif"> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Engineering the Web"/>
+  
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="30px"/> Hi, I'm Arjun Kumar Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkr403&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkr403" /> </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Crafting+secure%2C+scalable+applications;From+idea+to+production+deployment;MERN+%7C+DevOps+%7C+Cloud+Infrastructure;Let's+turn+ideas+into+impact+🚀" alt="Typing SVG" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning **MERN, JavaScript, DSA**
+---
 
-- 💬 Ask me about **FrontEnd Development, MySQL**
+## 💡 Quick Overview
 
-- 📫 How to reach me **arjunkr403@gmail.com**
+**Building secure and scalable systems for the modern web.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjunkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunkrsharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hzard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hzard" height="30" width="40" /></a>
+* 🚀 **Full-Stack MERN**
+* ☁️ **DevOps & Cloud Infrastructure (Docker, AWS, Kubernetes)**
+* 🤖 **AI/ML & Automation**
+
+---
+
+## 📚 Core Skills & Expertise
+
+| Area | Expertise | Key Technologies |
+| :--- | :--- | :--- |
+| **💻 Programming** | **Algorithmic** Problem-Solving & System Design | <img src="https://skillicons.dev/icons?i=cpp,python,js&perline=3" alt="C++, Python, JavaScript"/> |
+| **⚛️ Frontend** | Expert in **Modern, Responsive UI/UX** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css&perline=7" alt="React, Next.js, TypeScript, Tailwind, Bootstrap, HTML5, CSS3"/> |
+| **⚙️ Backend & APIs** | **Robust Server** and RESTful API Development | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Node.js, Express.js"/> |
+| **🗄️ Databases** | Full-Stack **Data Management** (NoSQL & Relational) | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3" alt="MongoDB, MySQL, Firebase"/> |
+| **☁️ DevOps & Infra** | **CI/CD**, Containerization, and Cloud Architecture | <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,nginx,jenkins&perline=5" alt="Docker, AWS, Kubernetes, Nginx, Jenkins"/> |
+| **🛠️ Tools & VCS** | Professional **Development Workflow** & Collaboration | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Git, GitHub, Postman, VS Code"/> |
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  **I'm always open to discussing new projects, collaboration opportunities, or technical challenges. Feel free to reach out!**
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color:#f0f0f0; padding: 10px;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60" style="margin-right: 15px; background-color: #ffffff; padding: 10px; border-radius: 5px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="margin-right: 15px;"/>
+<p align="center">
+  <a href="mailto:arjunkr403@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/arjunsh13" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/hzard" title="LeetCode">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
   </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunkr403&show_icons=true&locale=en&layout=compact" alt="arjunkr403" /></p>
+## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunkr403&show_icons=true&locale=en" alt="arjunkr403" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunkr403&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arjunkr403&theme=tokyonight&background=1a1b27&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=8be9fd&dates=8be9fd" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkr403&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="Top Languages"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkr403&" alt="arjunkr403" /></p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunkr403&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
+</p>
