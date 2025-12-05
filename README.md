@@ -1,7 +1,6 @@
 ![Engineering the Web](image.svg)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Engineering the Web"/>
-  
+
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="30px"/> Hi, I'm Arjun Kumar Sharma
 
   <p>
@@ -11,13 +10,11 @@
 
 ---
 
-## 💡 Quick Overview
-
-**Building secure and scalable systems for the modern web.**
-
-* 🚀 **Full-Stack MERN**
-* ☁️ **DevOps & Cloud Infrastructure (Docker, AWS, Kubernetes)**
-* 🤖 **AI/ML & Automation**
+<h2 align="center">
+  <samp>
+    💻 **FULL-STACK** &nbsp; • &nbsp; ☁️ **DEVOPS** &nbsp; • &nbsp; 🤖 **AI/ML**
+  </samp>
+</h2>
 
 ---
 
