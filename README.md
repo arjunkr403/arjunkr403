@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/hzard" title="LeetCode">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/> 
   </a>
 </p>
 
