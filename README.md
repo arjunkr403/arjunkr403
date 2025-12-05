@@ -1,22 +1,15 @@
 ![Engineering the Web](image.svg)
 <div align="center">
 
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="30px"/> Hi, I'm Arjun Kumar Sharma
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Crafting+secure%2C+scalable+applications;From+idea+to+production+deployment;MERN+%7C+DevOps+%7C+Cloud+Infrastructure;Let's+turn+ideas+into+impact+🚀" alt="Typing SVG" />
-  </p>
+  # Hi, I'm Arjun Kumar Sharma
 </div>
-
----
 
 <h2 align="center">
   <samp>
-    💻 **FULL-STACK** &nbsp; • &nbsp; ☁️ **DEVOPS** &nbsp; • &nbsp; 🤖 **AI/ML**
+    💻 FULL-STACK &nbsp; ☁️ DEVOPS &nbsp; 🤖 AI/ML
   </samp>
 </h2>
 
----
 
 ## 📚 Core Skills & Expertise
 
