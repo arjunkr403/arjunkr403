@@ -47,9 +47,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunkr403&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arjunkr403&theme=tokyonight&background=1a1b27&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=8be9fd&dates=8be9fd" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkr403&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="Top Languages"/>
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunkr403&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="GitHub Stats"/> -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=arjunkr403&theme=tokyonight&background=1a1b27&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=8be9fd&dates=8be9fd" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkr403&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=00d9ff&title_color=00d9ff&text_color=8be9fd" alt="Top Languages"/> -->
 </p>
 
 ---
